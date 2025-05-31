@@ -1,16 +1,16 @@
-## Hi there 👋
+# About
+Yo! I'm Ryan, a software developer with a main interest in game dev and desktop application silliness.
+I've been on and off with programming and game development since 6th grade where I picked up Lua and coded small games on the Roblox platform.
 
-<!--
-**rydal05/rydal05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently run and operate [Delfínsoft](https://delfinsoft.itch.io/), my solo game development operation of which I have a couple of projects in the works that are yet to be released. I do game design, game logic & programming, art, music, and direction.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+(In descending order)
+- C/C++
+- Python
+- Java
+- Lua 5.1
+- HTML, CSS, and Javascript
+- Node.js
+- React
+- SQL
