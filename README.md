@@ -1,7 +1,10 @@
-# About
-Yo! I'm Ryan, a software developer with a main interest in game dev and desktop application engineering.
+<!-- Default (tokyonight, 8 languages) -->
+![Top Languages](https://vani-stats.vercel.app/api?username=rydal05)
 
-# Languages of Interest
-- C/C++
-- Python
-- Java
+<!-- Dark theme, top 5 languages -->
+![Top Languages](https://vani-stats.vercel.app/api?username=rydal05&theme=dark&max_langs=5)
+
+<!-- Light theme, centered -->
+<p align="center">
+  <img src="https://vani-stats.vercel.app/api?username=rydal05&theme=light" alt="Top Languages" />
+</p>
