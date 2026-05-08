@@ -5,7 +5,7 @@ Orlando @ UCF ~ <a href="https://www.linkedin.com/in/rdalton05/">Linkedin</a>
 </p>
 
 # About Me
-Hi, I'm Ryan. I have a special interests in predominantly nerdy things. I enjoy programming in a variety of areas, most notably C/C++ and Python.
+Hi, I'm Ryan. I have a special interests in predominantly nerdy things. I enjoy programming in a variety of areas, most notably C/C++ and Python. I also really like red pandas.
 
 # Current Projects
 - [SuruScraper](https://github.com/rydal05/SuruScraper) | Homelab hosted propreitary database & wishlist notification system for suruga-ya.com and suruga-ya.jp.
