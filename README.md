@@ -5,9 +5,27 @@ Orlando @ UCF ~ <a href="https://www.linkedin.com/in/rdalton05/">Linkedin</a>
 </p>
 
 # About Me
-Hi, I'm Ryan. I have a special interests in predominantly nerdy things. I enjoy programming in a variety of areas, most notably C/C++ and Python. I also really like red pandas.
+Hi, I'm Ryan. CS junior at UCF, interested in systems programming and backend development. I enjoy programming in a variety of areas, most notably C/C++ and Python.
+
+# Skills & Stack 
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Tools & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SDL2](https://img.shields.io/badge/SDL2-1D4E89?style=for-the-badge&logoColor=white)
 
 # Current Projects
-- [SuruScraper](https://github.com/rydal05/SuruScraper) | Homelab hosted propreitary database & wishlist notification system for suruga-ya.com and suruga-ya.jp.
+- [SuruScraper](https://github.com/rydal05/SuruScraper) | Homelab hosted proprietary database & wishlist notification system for suruga-ya.com and suruga-ya.jp.
 - [Project Kanji Learner](https://github.com/rydal05/UntitledKanjiLearner) | Spaced repetition learning but for Japanese Kanji. Desktop software aimed at helping Japanese learners from N5 all the way through N1 become more procifient in reading, writing, and learning Kanji.
 - [Vanilla: Welcome Amiibo](https://github.com/rydal05/vanilla-welcomeamiibo) | A fork of [Vanilla](https://github.com/vanilla-wiiu/vanilla), a Nintendo Wii U gamepad spoofer, with the goals of introducing NFC Amiibo capability, among other various features & tweaks.
