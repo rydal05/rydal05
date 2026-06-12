@@ -7,7 +7,7 @@ Orlando @ UCF ~ <a href="https://www.linkedin.com/in/rdalton05/">Linkedin</a>
 # About Me
 Hi, I'm Ryan. CS junior at UCF, interested in systems programming and backend development. I enjoy programming in a variety of areas, most notably C/C++ and Python.
 - Currently Reading
-  - _Reversing: Secrets of Reverse Engineering_
+  - _Game Programming Patterns by Robert Nystrom_
 - Currently Exploring
   - Hardware
   - System design
