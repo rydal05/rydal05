@@ -66,6 +66,8 @@ Hi, I'm Ryan. CS junior at UCF, interested in systems programming and backend de
 - [SuruScraper](https://github.com/rydal05/SuruScraper) | Homelab hosted proprietary database & wishlist notification system for suruga-ya.com and suruga-ya.jp.
 - [Project Kanji Learner](https://github.com/rydal05/UntitledKanjiLearner) | Spaced repetition learning but for Japanese Kanji. Desktop software aimed at helping Japanese learners from N5 all the way through N1 become more procifient in reading, writing, and learning Kanji.
 ](url)
+- [Polar Star](https://github.com/rydal05/SDL3_POLAR-STAR) | A 2D Shoot-Em-Up game engine & game created entirely within C/C++ with the use of the Simple DirectMedia Layer 3 library. Purpose built to be compiled to and played perfectly on consoles as old as the PlayStation 2.
+
 
 ## Previously Worked On
 - [CourseKnight](https://github.com/Kumo000/CourseKnight) | A Discord Guild bot that automatically fecthes canvas webcourse updates. New grades, assignments, and teacher announcements, all with the help of Google Gemini to provide summaries and encouraging words of advice.
